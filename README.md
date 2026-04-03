@@ -12,7 +12,7 @@ The purpose of this computer experiment is to investigate the clustering process
 
 (d) Compare the common σ^2  computed in accordance with the empirical formula σ=d_max/√2K with the trends exhibited in the plots obtained in part (c), where d_max is the maximum distance between K means.
 
-<img width="610" height="509" alt="image" src="https://github.com/user-attachments/assets/af7a9b74-498d-4733-8b50-6c0f40f58dc1" />
+<img width="1758" height="1805" alt="semi_annulus_d_1" src="https://github.com/user-attachments/assets/e7cf99cf-619e-49d5-b884-7a217ea6b129" />
 
 createdata.py：实现半圆环区域类（SemiAnnulusRegion），该类属性包括内半径（r_inner）、外半径（r_outer）、环宽度（width）、圆心坐标（(x_center，y_center)）和是否为上半圆（is_upper），方法包括初始化、获取圆心坐标、获取环宽度、获取内外半径、获取随机点、获取等分点和绘制半圆环图。
 
